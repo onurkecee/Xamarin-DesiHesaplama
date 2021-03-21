@@ -1,0 +1,13 @@
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\Desi Hesapla.csprojAssemblyReference.cache
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\Anasayfa.xaml.g.cs
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\Desi Hesapla.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\Desi Hesapla.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\Desi Hesapla.AssemblyInfo.cs
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\Desi Hesapla.dll
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\Desi Hesapla.pdb
+C:\Users\Onur\source\repos\App4\App4\App4\bin\Debug\netstandard2.0\Desi Hesapla.deps.json
+C:\Users\Onur\source\repos\App4\App4\App4\bin\Debug\netstandard2.0\Desi Hesapla.dll
+C:\Users\Onur\source\repos\App4\App4\App4\bin\Debug\netstandard2.0\Desi Hesapla.pdb
+C:\Users\Onur\source\repos\App4\App4\App4\obj\Debug\netstandard2.0\XamlC.stamp

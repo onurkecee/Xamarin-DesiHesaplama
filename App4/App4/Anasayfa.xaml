@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4.Anasayfa"
+             BackgroundColor="Lavender">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Onur Keçe ! Desi Programı"
+                HorizontalOptions="CenterAndExpand"
+                Margin="50,20,0,0"/>
+
+            <Entry Placeholder="En" x:Name="en" Keyboard="Numeric" Margin="10"></Entry>
+            <Entry Placeholder="Boy" x:Name="boy" Keyboard="Numeric" Margin="10"></Entry>
+            <Entry Placeholder="Yükseklik" x:Name="yukseklik" Keyboard="Numeric" Margin="10"></Entry>
+
+
+            <Button Text="Desi Hesapla" BackgroundColor="Gray" FontSize="20" HorizontalOptions="Center" Clicked="BtnHesapla" BorderRadius="50" Margin="50"></Button>
+
+
+            <Entry Placeholder="Sonuç " x:Name="sonuc" IsEnabled="False"></Entry>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
