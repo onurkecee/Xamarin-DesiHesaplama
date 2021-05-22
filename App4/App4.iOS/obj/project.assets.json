@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Onur\\source\\repos\\App4\\App4\\App4.iOS\\App4.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Onur\\Documents\\GitHub\\Xamarin-DesiHesaplama\\App4\\App4.iOS\\App4.iOS.csproj",
       "projectName": "App4.iOS",
-      "projectPath": "C:\\Users\\Onur\\source\\repos\\App4\\App4\\App4.iOS\\App4.iOS.csproj",
+      "projectPath": "C:\\Users\\Onur\\Documents\\GitHub\\Xamarin-DesiHesaplama\\App4\\App4.iOS\\App4.iOS.csproj",
       "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Onur\\source\\repos\\App4\\App4\\App4.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Onur\\Documents\\GitHub\\Xamarin-DesiHesaplama\\App4\\App4.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Onur\\source\\repos\\App4\\App4\\App4\\Desi Hesapla.csproj": {
-              "projectPath": "C:\\Users\\Onur\\source\\repos\\App4\\App4\\App4\\Desi Hesapla.csproj"
+            "C:\\Users\\Onur\\Documents\\GitHub\\Xamarin-DesiHesaplama\\App4\\App4\\Desi Hesapla.csproj": {
+              "projectPath": "C:\\Users\\Onur\\Documents\\GitHub\\Xamarin-DesiHesaplama\\App4\\App4\\Desi Hesapla.csproj"
             }
           }
         }

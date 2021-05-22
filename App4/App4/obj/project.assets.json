@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Onur\\source\\repos\\App4\\App4\\App4\\Desi Hesapla.csproj",
+      "projectUniqueName": "C:\\Users\\Onur\\Documents\\GitHub\\Xamarin-DesiHesaplama\\App4\\App4\\Desi Hesapla.csproj",
       "projectName": "Desi Hesapla",
-      "projectPath": "C:\\Users\\Onur\\source\\repos\\App4\\App4\\App4\\Desi Hesapla.csproj",
+      "projectPath": "C:\\Users\\Onur\\Documents\\GitHub\\Xamarin-DesiHesaplama\\App4\\App4\\Desi Hesapla.csproj",
       "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Onur\\source\\repos\\App4\\App4\\App4\\obj\\",
+      "outputPath": "C:\\Users\\Onur\\Documents\\GitHub\\Xamarin-DesiHesaplama\\App4\\App4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
